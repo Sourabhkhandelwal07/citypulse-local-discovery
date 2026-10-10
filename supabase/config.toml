@@ -1,0 +1,2 @@
+[functions.citypulse-search]
+verify_jwt = false
